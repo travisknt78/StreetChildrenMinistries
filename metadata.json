@@ -1,0 +1,6 @@
+{
+  "name": "Street Children Ministries",
+  "description": "A modern, responsive website for a nonprofit organization dedicated to helping orphaned and vulnerable children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
